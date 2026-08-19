@@ -7,7 +7,7 @@
         srcset="./assets/github-cover-light.png">
     <img
         src="./assets/github-cover-light.png"
-        width="100%"
+        width="80%"
         alt="Susana Loureiro — AI / Machine Learning Engineer">
 </picture>
 
@@ -23,8 +23,6 @@
 
 ### currently
 
-BSc in Informatics Engineering · ISEP  
-MSc in Artificial Intelligence Engineering · ISEP · 2026–2028
 
 Building machine learning and AI systems across computer vision, LLMs, recommendation systems, and applied AI.
 
