@@ -10,7 +10,7 @@
 
 <div align="center">
 
-*AI / Machine Learning Engineer · Porto, Portugal*
+*ML/AI Engineer · Porto, Portugal*
 
 </div>
 
