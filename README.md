@@ -1,14 +1,10 @@
-<p align="center">
-  <img
-    src="./assets/github-cover-light.png#gh-light-mode-only"
-    width="300"
-    alt="Susana Loureiro — AI / Machine Learning Engineer">
+<div align="center">
 
-<img
-src="./assets/github-cover-dark.png#gh-dark-mode-only"
-width="300"
-alt="Susana Loureiro — AI / Machine Learning Engineer">
-</p>
+<img src="./assets/github-cover-light.png#gh-light-mode-only" width="55%" alt="Susana Loureiro — AI / Machine Learning Engineer">
+
+<img src="./assets/github-cover-dark.png#gh-dark-mode-only" width="55%" alt="Susana Loureiro — AI / Machine Learning Engineer">
+
+</div>
 
 <br>
 
