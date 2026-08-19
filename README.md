@@ -10,11 +10,9 @@
     <img
       src="./assets/github-cover-light.png"
       width="55%"
-      alt="Susana Loureiro — AI / Machine Learning Engineer"
-      style="margin-left: 8%;">
+      alt="Susana Loureiro — AI / Machine Learning Engineer">
   </picture>
 </p>
-
 <br>
 
 <div align="center">
