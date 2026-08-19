@@ -6,10 +6,12 @@
     <source
       media="(prefers-color-scheme: light)"
       srcset="./assets/github-cover-light.png">
+
     <img
       src="./assets/github-cover-light.png"
       width="55%"
-      alt="Susana Loureiro — AI / Machine Learning Engineer">
+      alt="Susana Loureiro — AI / Machine Learning Engineer"
+      style="margin-left: 8%;">
   </picture>
 </p>
 
